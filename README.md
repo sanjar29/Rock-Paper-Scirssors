@@ -1,6 +1,6 @@
 # Rock Paper Scissors Web & Android Game 🪶✂️📄
 
-A simple and fun "Rock Paper Scissors" game available as both a **web app** 🌐 and an **Android app** 📱. Play against a bot 🤖 and see if you can outsmart it! The game allows you to select from three choices: **Rock** 🪶, **Paper** 📄, and **Scissors** ✂️, and the bot randomly selects its choice. The game determines the winner based on the classic rules:
+Hey there. I built a simple and fun "Rock Paper Scissors" game which is available as both a **web app** 🌐 and an **Android app** 📱. Sadly, it is not a two player, you will only be able to play against a bot 🤖 and see if you can outsmart it! The game allows you to select from three choices: **Rock** 🪶, **Paper** 📄, and **Scissors** ✂️, and the bot randomly selects its choice. The game determines the winner based on the classic rules:
 
 - Rock 🪶 beats Scissors ✂️
 - Scissors ✂️ beats Paper 📄
@@ -13,14 +13,14 @@ A simple and fun "Rock Paper Scissors" game available as both a **web app** 🌐
 
 ## How to Play 🎲:
 ### On the Web 🌐:
-1. Click [**here**](#) to play the game on the hosted website (replace `#` with your actual link).
+1. Click [**here**](https://simplerockpaperscissorsgame.tiiny.site/) to play the game on the hosted website tiiny-host.
 2. The game will ask you to select between **Rock** 🪶, **Paper** 📄, and **Scissors** ✂️.
 3. Once you select your tool, the bot will randomly choose one.
 4. A pop-up will show the result of the game: win 🏆, lose ❌, or draw ⚖️.
 5. You can start a new game 🔄 from the result screen.
 
 ### On Android 📱:
-1. **Download the APK**: [Download APK](./path-to-apk) (Replace `path-to-apk` with the actual APK file location).
+1. **Download the APK**:
 2. Install the APK on your Android device 📲.
 3. Open the app, select between **Rock** 🪶, **Paper** 📄, or **Scissors** ✂️.
 4. The bot will make its selection, and the result will be displayed 🏆❌⚖️.
@@ -37,7 +37,7 @@ A simple and fun "Rock Paper Scissors" game available as both a **web app** 🌐
 - **Android APK**: The Android version of the game, built with Android Studio 🖥️📱 using Java and XML.
 
 ### Development Tools ⚒️:
-- **Text Editor**: VS Code or any preferred text editor for code writing ✍️.
+- **Text Editor**: VS Code ✍️.
 - **Android Studio**: For building and testing the Android app 📱.
 - **Image Generator**: Used for creating the logo 🖼️.
 - **GitHub**: For version control and hosting the project files 💻.
@@ -46,8 +46,6 @@ A simple and fun "Rock Paper Scissors" game available as both a **web app** 🌐
 - Fork this repository 🍴 and submit your improvements or suggestions via pull requests.
 - You can improve the game by adding new features ✨ or enhancing the UI/UX 🎨.
 
-### License 📄:
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
@@ -61,5 +59,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 ### Contact 📧:
-If you have any questions or suggestions, feel free to open an issue or contact the developer at [email@example.com](mailto:email@example.com).
+If you have any questions or suggestions, feel free to open an issue.
 
