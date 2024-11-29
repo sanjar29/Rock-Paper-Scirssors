@@ -1,4 +1,4 @@
-# Rock Paper Scissors Web & Android Game 🪶✂️📄
+# Rock Paper Scissors [Web](https://simplerockpaperscissorsgame.tiiny.site/)  & Android Game 🪶✂️📄
 
 Hey there. I built a simple and fun "Rock Paper Scissors" game which is available as both a **web app** 🌐 and an **Android app** 📱. Sadly, it is not a two player, you will only be able to play against a bot 🤖 and see if you can outsmart it! The game allows you to select from three choices: **Rock** 🪶, **Paper** 📄, and **Scissors** ✂️, and the bot randomly selects its choice. The game determines the winner based on the classic rules:
 
@@ -32,8 +32,8 @@ Hey there. I built a simple and fun "Rock Paper Scissors" game which is availabl
 
 ### Tools and Technologies Used 🛠️:
 - **HTML**: Used for structuring the game interface 🖥️.
-- **CSS**: Applied styles for the game’s appearance, including pop-up windows and buttons 🎨.
 - **JavaScript**: The main logic behind the game, handling user inputs, bot decisions, and results ⚙️.
+- **CSS**: Applied styles for the game’s appearance, including pop-up windows and buttons 🎨.
 - **Android APK**: The Android version of the game, built with Android Studio 🖥️📱 using Java and XML.
 
 ### Development Tools ⚒️:
@@ -51,10 +51,10 @@ Hey there. I built a simple and fun "Rock Paper Scissors" game which is availabl
 
 ## Project Files 📂:
 
-- **index.html**: Main HTML file containing the game’s structure 🖥️.
-- **style.css**: Styles for the game’s user interface 🎨.
-- **script.js**: JavaScript file containing the logic for the game ⚙️.
-- **game.apk**: Android APK version of the game for installation 📱.
+- **index.html**: (NOT UPLOADED) Main HTML file containing the game’s structure 🖥️.
+- **style.css**: (NOT UPLOADED) Styles for the game’s user interface 🎨.
+- **script.js**: (NOT UPLOADED) JavaScript file containing the logic for the game ⚙️.
+- **RockPaperScirssors.apk**: Android APK version of the game for installation 📱.
 
 ---
 
